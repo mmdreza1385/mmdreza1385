@@ -1,16 +1,22 @@
-## Hi there 👋
+# کارت ویزیت هوشمند Python
 
-<!--
-**mmdreza1385/mmdreza1385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## اجرا در ویندوز
 
-Here are some ideas to get you started:
+```powershell
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+سپس:
+- کارت: http://127.0.0.1:5000
+- پنل مدیریت: http://127.0.0.1:5000/login
+
+ورود پیش‌فرض:
+- username: admin
+- password: 123456
+
+قبل از انتشار، `ADMIN_PASSWORD` و `app.secret_key` را تغییر دهید.
+
+این نسخه اطلاعات را در `data.json` ذخیره می‌کند و برای شروع ساده است.

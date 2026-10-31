@@ -1,0 +1,15 @@
+{
+  "name": "سیدمحمدرضا طباطبائی",
+  "title": "برنامه‌نویس، توسعه‌دهنده وب و خبرنگار",
+  "bio": "کارت ویزیت هوشمند شخصی",
+  "phone": "09120000000",
+  "email": "example@example.com",
+  "website": "https://example.com",
+  "socials": [
+    {"name": "Telegram", "icon": "✈️", "url": "https://t.me/username", "enabled": true},
+    {"name": "Instagram", "icon": "📸", "url": "https://instagram.com/username", "enabled": true},
+    {"name": "WhatsApp", "icon": "💬", "url": "https://wa.me/989120000000", "enabled": true},
+    {"name": "GitHub", "icon": "💻", "url": "https://github.com/username", "enabled": true},
+    {"name": "LinkedIn", "icon": "🔗", "url": "https://linkedin.com/in/username", "enabled": true}
+  ]
+}
